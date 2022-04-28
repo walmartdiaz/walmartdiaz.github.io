@@ -1,0 +1,81 @@
+<html>
+	<head>
+		<title>
+			walmart-contacto
+		</title>
+		<link rel="shortcut icon" href="walmart.png">
+		<link rel= "stylesheet" href="estilos.css">
+	</head>
+	<body>
+		<body>
+			<center>
+			 <img src="walmarttt.png" class="logo">
+			</center>
+			<h1>
+				<font>
+						contactanos
+					</font>
+				</h1>
+				<hr>
+				<br>
+				<center>
+					<form>
+						<table class= "cn">
+							<tr>
+								<td>
+									<label>nombre:</label>
+									<input type="text" size="50" name="nombre" id="nombre">
+									</input>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<label>correo electronico:</label>
+									<input type="text" size="40" name="correo" id="correo">
+									</input>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<label>mensaje:</label>
+									<textarea rows="10" cols="40"  name="mensaje" id="mensaje">
+									</textarea>
+								</td>
+							</tr>
+							<tr>
+								<td>
+								<input type="submint" value="enviar">
+								<input type="reset">
+							</td>
+		                    </tr>
+						<table>
+						
+					</form>
+				</center>
+				<br>
+				<br>
+				<br>
+				<br>
+				<table>
+				<tr class="sin">
+						<td class="sin"> <A href="principal.html"> <img src=principaal.png class="cd"> </A> </td>
+						<td class="sin"> <A href="historiaa.html"> <img src=historia.png class="cd"> </A> </td>
+						<td class="sin"> <A href="productos.html"> <img src=productos.png class="cd"> </A> </td>
+						<td class="sin"> <A href="contactanos.html"> <img src=contacto.png class="cd" > </A> </td>
+				</table>
+				<br>
+				<br>
+				<p>
+					<font>
+						<b> <i>
+						&copy; 2022. Derechos reservados. <br>
+						Desarrollado por: Rosa Elena Torres Armenta
+						Matricula: 01908023
+						Grupo: 604 <br>
+						Plantel Nueva Tijuana 
+						</br> </i>
+					</font>
+				</p>
+				<body>
+</html>
+				
